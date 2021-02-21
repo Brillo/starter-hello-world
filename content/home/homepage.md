@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "許菡芸和她的"
+title: "許菡芸和她的故事"
 subtitle: ""
 
 design:
