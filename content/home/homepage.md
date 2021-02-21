@@ -24,12 +24,14 @@ design:
     image: 1119-0182.jpg  # Name of image in `static/media/`.
     image_darken: 0.6
     image_size: cover
-    image_position: middle
+    image_position: right
     image_parallax: true
     text_color_light: true
 advanced:
   css_style:
   css_class: 
+
+  # 如何讓照片能夠在手機中有更好的呈現方式？（目前背景照片中的臉會被文字遮擋）
 ---
 
 ## 作為政治工作者
@@ -63,8 +65,10 @@ advanced:
 ### 美國威斯康辛大學麥迪遜分校
 #### 教育部計畫交換學生 • 2014.09 - 2015.07
 
+//要加什麼內容？ Podcast連結？ 投書？ 訪問？
 
-## Get in Touch
+
+## 找我嗎？
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:hyhsu27@gmail.com)
 [{{< icon name="facebook" pack="fab" >}}Facebook](https://www.facebook.com/christine.hsu0)  
