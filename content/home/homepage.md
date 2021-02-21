@@ -22,9 +22,9 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: 1119-0182.jpg  # Name of image in `static/media/`.
-    image_darken: 0
+    image_darken: 0.6
     image_size: cover
-    image_position: right
+    image_position: middle
     image_parallax: true
     text_color_light: true
 advanced:
