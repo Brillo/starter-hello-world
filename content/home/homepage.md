@@ -66,5 +66,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Credits
 
-[Demo background image](https://sealonheartphotography.pixieset.com/1118/day2/?pid=4769613034&id=181&h=NTgzNTYzNzYx
-https://sealonheartphotography.pixieset.com/download/photo/?username=sealonheartphotography&key=1118&token=UVKdmDiQHKgoFwtiany_icpgnb2POaUITUGDhLfzibcXHnOe1ptSBxxV1CbD96Apppy3_ZiN3RYs0ov1TY10pYe0yWc9xpaRcza77h647z_gkEhIyqOWGTlW18kzaqdRVSetemYMiZh7HNl0QfSPK6hHd9iLEbRyx3CfIRoAvHo3TWpgQAl-8EwYO3zmOiPffU7nuNqUGntWVRPKKBwBWQ&downloadtype=0)
+[Demo background image](/Users/brillo/Documents/GitHub/starter-hello-world/static/media/1119-0182.jpg)
