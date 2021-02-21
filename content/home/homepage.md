@@ -24,7 +24,7 @@ design:
     image: 1119-0182.jpg  # Name of image in `static/media/`.
     image_darken: 0.6
     image_size: cover
-    image_position: up
+    image_position: middle
     image_parallax: true
     text_color_light: true
 advanced:
@@ -32,30 +32,36 @@ advanced:
   css_class: 
 ---
 
-## My Mission
+## 作為政治工作者
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+可以跟你說的是，
 
-## Specialties
+## 經歷
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
-
-## Experience
-
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### 臺北市議員邱威傑辦公室
+#### 主任 • 2018.12-
+受理選民陳情，並於去隱私化後公開所有處理進度及回覆內容。撰寫法案及質詢稿，舉辦公聽會及定期公佈議員問政成果。
 
 
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### 臺北市議員
+#### 中正萬華區（第五選區）參選人 • 2018.03 - 2018.11
+倡議機車路權、公共托育、勞動權益、及性別平權等政見。為當屆最年輕之北市議員候選人，取得第十名成績（應選八名）。
 
-## Education
+### 臺北市雲轉大安好生活協會
+#### 辦公室主任 • 2016.01 - 2018.03
+拓展基層組織，提供社區服務（健康諮詢講座、市府補助申請、舉辦公益園遊會等）。
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### 美國國家民主基金會
+#### 暑期實習生 • 2015.06 - 2015.07
+聲援國際政治良心犯（緬甸、委內瑞拉、中國）並協助推動民主之NGO串連資源。
+
+
+## 背景
+
+### 國立臺灣大學
+#### 政治系及社會系學士 • 2010.09 - 2015.07
+### 美國威斯康辛大學麥迪遜分校
+#### 教育部計畫交換學生 • 2014.09 - 2015.07
 
 
 ## Get in Touch
@@ -65,3 +71,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Credits
+Seal on Hearts Photography
